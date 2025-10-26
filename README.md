@@ -1,0 +1,1 @@
+# vitalquest-microservice-template
